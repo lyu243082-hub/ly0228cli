@@ -46,10 +46,10 @@
     node-cache "^5.1.2"
     node-cls "^1.0.7"
 
-"@byted-apaas/server-sdk-node@1.1.24":
-  version "1.1.24"
-  resolved "https://registry.npmmirror.com/@byted-apaas/server-sdk-node/-/server-sdk-node-1.1.24.tgz#ae8d0344caa0c6275ddc94c17266545c2511d34d"
-  integrity sha512-9tSVskL3ZZpkrdVCnp4ZLDlvPQ3fwT4reTaFwtGN8riNgFuo2c6aBrJrKoVTYv/bfPC98PsTWX9gvXmsIdutfg==
+"@byted-apaas/server-sdk-node@1.1.27":
+  version "1.1.27"
+  resolved "https://registry.npmmirror.com/@byted-apaas/server-sdk-node/-/server-sdk-node-1.1.27.tgz#762b88e12fe50602bdc22e42c6fd48d25d0a6323"
+  integrity sha512-uDVQ0e8ymnVBnqBAPuWOyK6JxcCBs0IhC+32toaruiOGDtw8GjuTxoAc3fDIvG5nKuRvLuTc6Yx4sAQICqw8cg==
   dependencies:
     "@byted-apaas/server-common-node" "^2.0.24"
     "@jorgeferrero/stream-to-buffer" "^2.0.6"
